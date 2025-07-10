@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👨‍💻 About Me
 
-<!--
-**zecka/zecka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Fullstack JavaScript Developer at [**SQLI**](https://www.sqli.com/int-en/locations/switzerland)  
+- 🏀 Currently leading frontend for the **FIBA** web ecosystem ([fiba.basketball](https://www.fiba.basketball))  
+- ⚙️ Working mostly with **TypeScript**, **Next.js**, **React**, **Node.js**, **Contentful**, **GraphQL**, **Azure**  
+- 🎨 Big fan of clean UI and close **UX/UI collaboration**  
+- 🤹‍♂️ Background in **multimedia design**, photography, and video
+- 🧪 Writing tests, reviewing PRs, and making CI/CD actually work
+- 🎨 Nothing makes me happier than wiring up a clean design system with **Storybook** and testing it with **Chromatic**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![Zecka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zecka&show_icons=true&count_private=true&theme=default&hide=contribs)
+
+## 🚀 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zecka&layout=compact&theme=default)
