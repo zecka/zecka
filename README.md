@@ -6,7 +6,7 @@
 - 🎨 Big fan of clean UI and close **UX/UI collaboration**  
 - 🤹‍♂️ Background in **multimedia design**, photography, and video
 - 🧪 Writing tests, reviewing PRs, and making CI/CD actually work
-- 🎨 Nothing makes me happier than wiring up a clean design system with **Storybook** and testing it with **Chromatic**
+- 🎨 Integrating design systems through **Storybook**, with visual confidence powered by **Chromatic**
 
 
 ## 📊 GitHub Stats
