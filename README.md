@@ -13,6 +13,6 @@
 
 ![Zecka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zecka&show_icons=true&count_private=true&theme=default&hide=contribs)
 
-## 🚀 Most Used Languages
+<!-- ## 🚀 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zecka&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zecka&layout=compact&theme=default) -->
