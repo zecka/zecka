@@ -1,13 +1,14 @@
 ## 👨‍💻 About Me
 
-- 💼 Fullstack JavaScript Developer at [**SQLI**](https://www.sqli.com/int-en/locations/switzerland)  
-- 🏀 Currently leading frontend for the **FIBA** web ecosystem ([fiba.basketball](https://www.fiba.basketball))  
-- ⚙️ Working mostly with **TypeScript**, **Next.js**, **React**, **Node.js**, **Contentful**, **GraphQL**, **Azure**  
-- 🎨 Big fan of clean UI and close **UX/UI collaboration**  
-- 🤹‍♂️ Background in **multimedia design**, photography, and video
-- 🧪 Writing tests, reviewing PRs, and making CI/CD actually work
-- 🎨 Integrating design systems through **Storybook**, with visual confidence powered by **Chromatic**
-
+- 💼 Fullstack Tech Lead at [**SQLI**](https://www.sqli.com/int-en/locations/switzerland)
+- 🧩 I build and structure **Design Systems**, frontend platforms, and developer-friendly foundations
+- 🏀 Technical Lead on the **FIBA** digital ecosystem, across frontend, CMS, DAM, and partner APIs
+- 🏦 Currently working on an internal **Design System** for **Lombard Odier**
+- 🅰️ Open source contributor to [**Angular Primitives**](https://github.com/ng-primitives/ng-primitives)
+- ⚙️ Main stack: **TypeScript**, **React**, **Next.js**,  **Angular**, **Node.js**, **Contentful**, **GraphQL**, **Azure**
+- ♿ Interested in accessibility, clean UI, component architecture, and UX/UI collaboration
+- 🧪 I like code reviews, tests, documentation, and making developer workflows simpler
+- 🤹 Former multimedia designer, with a background in graphic design, photography, and video
 
 ## 📊 GitHub Stats
 
